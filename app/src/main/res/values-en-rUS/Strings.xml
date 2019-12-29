@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile1718049</string>
+    <string name="post">Post</string>
+    <string name="follow">F O L L O W</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="email">E-Mail : budigarinanto48@gmail.com</string>
+    <string name="phone">Phone Number \n082147678199"</string>
+</resources>
